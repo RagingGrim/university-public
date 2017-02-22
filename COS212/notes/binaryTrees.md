@@ -15,3 +15,10 @@ A full binary tree (sometimes referred to as a proper or plane binary tree) is a
 In a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible
 
 ![No connection](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Complete_binary.pdf/page1-220px-Complete_binary.pdf.jpg)
+
+## Insertion
+
+## Traversal
+### Top-down
+### left-to-right
+### breadth-first
