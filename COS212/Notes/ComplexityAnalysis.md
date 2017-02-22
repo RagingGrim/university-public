@@ -20,7 +20,7 @@ Let g(n) be the worst case performance of f(n); Big O Notation can then be defin
 
      f(n)       | Big-O
 :-------------: | :----:
-     2n^2       | O(n^2)
+     2n^2       | ![No connection](https://latex.codecogs.com/gif.latex?g(x)&space;=&space;x^3)
    100000n^2    | O(n^2)
    2n + n^2     | O(n^2)
 10 + n + log(n) |  O(n)
