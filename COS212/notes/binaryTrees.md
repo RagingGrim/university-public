@@ -51,9 +51,9 @@ public void breadthFirst() {
 ### depth-first
 One starts at the root and explores as far as possible along each branch before backtracking. We repeat this process until all nodes are visited. This does however not specify what is considered as a visit: Before proceeding down the tree or after backing up?
 
-V - Visiting a node
-L - Traversing the left subtree
-R - Traversing the right subtree
+- V: Visiting a node
+- L: Traversing the left subtree
+- R: Traversing the right subtree
 
 Considering the move is always left-to-right and the attention is focused on the first column we have three standard types of traversal:
 - VLR: Preorder
