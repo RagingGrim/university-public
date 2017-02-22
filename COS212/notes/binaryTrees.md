@@ -82,7 +82,74 @@ protected void postorder(BSTNode<T> p) {
   if(p != null) {
     postorder(p.left);
     postorder(p.right);
-    viist(p);
+    visit(p);
+  }
+}
+```
+
+## stackless depth-first traversal
+### Threaded Trees
+A threaded binary tree is a binary tree variant that allows fast traversal: given a pointer to a node in a threaded tree, it is possible to cheaply find its in-order successor (and/or predecessor).
+
+It is more efficient to incorporate the stack as part of the tree. This is done by incorporating ***threads*** in a given node. Threads are references to the predecessor and the successor according to the inorder traversal.
+
+In trees, left or right references and references are children, but they can also be used as references to predecessors and successors, thereby being overloaded with meaning. To distinguish these meanings, a new data field has to be used to indicate the current meaning of the references. (eg. hasSuccessor)
+
+A threaded tree, with the special threading links shown by dashed arrows.
+
+![No connection](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Threaded_tree.svg/220px-Threaded_tree.svg.png)
+
+#### Code
+```java
+// Threaded tree node
+public class ThreadedTreeNode<T extends Comparable<? super T>> {
+  protected T el;
+  protected boolean hasSuccessor;
+  protected ThreadedTreeNode<T> left, right;
+  public ThreadedTreeNode() {
+    left = right = null;
+    hasSuccessor = false;
+  }
+
+  public ThreadedTreeNode(T el) {
+    this(el,null,null);
+  }
+
+  public ThreadedTreeNode(T el, ThreadedTreeNode<T> l, ThreadedTreeNode<T> r) {
+    this.el = el;
+    left = 1;
+    right = r;
+    hasSuccessor = false;
+  }
+}
+
+// Threaded tree
+public class ThreadedTree<T extends Comparable<? super T>> {
+  private ThreadedTreeNode<T> root;
+  public ThreadedTree() {
+    root = null;
+  }
+
+  protected void visit(ThreadedTree<T> p) {
+    System.out.print(p.el + " ");
+  }
+
+  protected void inorder() {
+    ThreadedTreeNode<T> prev, p = root;
+    if (p != null) {
+      while(p.left != null) { // go to the leftmost node.
+        p = p.left;
+      }
+      while(p != null) {
+        visit(p);
+        prev = p;
+        p = p.right;
+        if (p != null && !prev.hasSuccessor) {
+          while (p.left != null) // go to leftmost node.
+            p = p.left;
+        }
+      }
+    }
   }
 }
 ```
