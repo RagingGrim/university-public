@@ -16,9 +16,33 @@ In a complete binary tree every level, except possibly the last, is completely f
 
 ![No connection](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Complete_binary.pdf/page1-220px-Complete_binary.pdf.jpg)
 
-## Insertion
-
 ## Traversal
-### Top-down
+### top-down
+
 ### left-to-right
 ### breadth-first
+breadth-first starts at the tree root and explores the neighbor nodes first, before moving to the next level neighbors.
+![No connection](https://upload.wikimedia.org/wikipedia/commons/4/46/Animated_BFS.gif)
+
+#### Performance
+![No connection](https://wikimedia.org/api/rest_v1/media/math/render/svg/3723b61a52380fbdf4c6892af96ebbfe8fb76a22)
+
+#### Code
+```java
+public void breadthFirst() {
+  BSTNode<T> p = root;
+  Queue<BSTNode<T>> queue = new Queue<BSTNode<T>>();
+
+  if(p != null) {
+    queue.enqueue(p);
+    while (!queue.isEmpty()) {
+      p = queue.dequeue();
+      visit(p);
+      if(p.left != null)
+        queue.enqueue(p.left);
+      if(p.right != null)
+        queue.enqueue(p.right);
+    }
+  }
+}
+```
