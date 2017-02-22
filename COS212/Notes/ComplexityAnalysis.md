@@ -4,6 +4,7 @@ Basically covers the fact that all algorithms have tradeoffs. In the case of com
 
 Let f(n) be the function that describes the complexity of an algorithm. We are only concerned with asymptotic complexity ; which is to say we are only concerned with the order of complexity ( magnitude of a function ).
 
+!(https://latex.codecogs.com/gif.latex?f(x)&space;=&space;x^3)[test]
 Eg $f(x) = x^2$ has a lower order than $g(x) = x^3$
 
 ##
