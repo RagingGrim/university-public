@@ -21,10 +21,10 @@ Let g(n) be the worst case performance of f(n); Big O Notation can then be defin
      f(n)       | Big-O
 :-------------: | :----:
      ![No connection](https://latex.codecogs.com/gif.latex?2n%5E2)       | ![No connection](https://latex.codecogs.com/gif.latex?O%28n%5E2%29)
-   ![No connection](https://latex.codecogs.com/gif.latex?100000n%5E2)    | ![No connection]((https://latex.codecogs.com/gif.latex?O%28n%5E2%29))
+   ![No connection](https://latex.codecogs.com/gif.latex?100000n%5E2)    | ![No connection](https://latex.codecogs.com/gif.latex?O%28n%5E2%29)
    ![No connection] (https://latex.codecogs.com/gif.latex?2n%20&plus;%20n%5E2)     | ![No connection](https://latex.codecogs.com/gif.latex?O%28n%5E2%29)
 ![No connection](https://latex.codecogs.com/gif.latex?10%20&plus;%20n%20&plus;%20log%28n%29) | ![No connection](https://latex.codecogs.com/gif.latex?O%28n%29)
-![No connection](https://latex.codecogs.com/gif.latex?10n%5E3%20&plus;%20364n%5E2)  | ![No connection]((https://latex.codecogs.com/gif.latex?O%28n%5E3%29))
+![No connection](https://latex.codecogs.com/gif.latex?10n%5E3%20&plus;%20364n%5E2)  | ![No connection](https://latex.codecogs.com/gif.latex?O%28n%5E3%29)
 
 ![No connection](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_computational_complexity.svg/1920px-Comparison_computational_complexity.svg.png)
 
