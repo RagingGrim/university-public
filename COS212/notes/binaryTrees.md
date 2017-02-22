@@ -26,8 +26,7 @@ This can be implemented as:
 
 ![No connection](https://upload.wikimedia.org/wikipedia/commons/4/46/Animated_BFS.gif)
 
-#### Performance
-![No connection](https://wikimedia.org/api/rest_v1/media/math/render/svg/3723b61a52380fbdf4c6892af96ebbfe8fb76a22)
+Implementation of this type of traversal is easy if a queue is used. After a node is visited, its children, if any, are placed at the end of the queue, and the node at the beginning of the queue is visited.
 
 #### Code
 ```java
@@ -39,6 +38,7 @@ public void breadthFirst() {
     queue.enqueue(p);
     while (!queue.isEmpty()) {
       p = queue.dequeue();
+      // Arbitrary term for doing something with the node.
       visit(p);
       if(p.left != null)
         queue.enqueue(p.left);
