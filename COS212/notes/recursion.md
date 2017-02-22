@@ -14,8 +14,8 @@ Recursion involves a function repeatedly calling itself until an answer is found
 		else
 			return 1
 ```
-#### c++
-```c++
+#### java
+```java
 int factorial(int n){
     if (n > 1){
         return n*factorial(n-1);
