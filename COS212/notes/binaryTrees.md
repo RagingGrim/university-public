@@ -17,11 +17,13 @@ In a complete binary tree every level, except possibly the last, is completely f
 ![No connection](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Complete_binary.pdf/page1-220px-Complete_binary.pdf.jpg)
 
 ## Traversal
-### top-down
-
-### left-to-right
 ### breadth-first
 breadth-first starts at the tree root and explores the neighbor nodes first, before moving to the next level neighbors.
+This can be implemented as:
+- top-down
+- left-to-right
+- right-to-left
+
 ![No connection](https://upload.wikimedia.org/wikipedia/commons/4/46/Animated_BFS.gif)
 
 #### Performance
@@ -46,3 +48,5 @@ public void breadthFirst() {
   }
 }
 ```
+### depth-first
+One starts at the root and explores as far as possible along each branch before backtracking.
