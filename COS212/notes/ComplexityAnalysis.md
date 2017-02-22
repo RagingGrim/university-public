@@ -7,7 +7,6 @@ Let f(n) be the function that describes the complexity of an algorithm. We are o
 This means that the function f(x) has a low order of complexity compared to g(x)<br>
 ![No connection](https://latex.codecogs.com/gif.latex?f(x)&space;=&space;x^2)<br>
 ![No connection](https://latex.codecogs.com/gif.latex?g(x)&space;=&space;x^3)<br><br>
-
 We determine the complexity of f(n) by deciding which terms contribute the most and discarding the others.
 
 ## Big O Notation
