@@ -162,7 +162,8 @@ public class Queens {
         else {
             for (int i = 0; i < n; i++) {
                 q[k] = i;
-                if (isConsistent(q, k)) enumerate(q, k+1);
+                if (isConsistent(q, k))
+			 	enumerate(q, k+1);
             }
         }
     }  
