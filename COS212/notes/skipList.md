@@ -4,6 +4,7 @@ Skiplists are data structures that allow fast search within a ordered sequence o
 ![No Internet](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Skip_list_add_element-en.gif/400px-Skip_list_add_element-en.gif)
 
 ## Code
+### Pseudo code
 ```pseudo
 make all nodes level 1
 j ← 1
@@ -23,6 +24,7 @@ while the number of nodes at level j > 1 do
 repeat
 ```
 
+### Java
 ```Java
 /*
  * Java program to implement SkipList
