@@ -31,3 +31,7 @@ Let g(n) be the worst case performance of f(n); Big O Notation can then be defin
 <img src="http://i.imgur.com/xoBxg1O.png" width="500">
 
 ### Common algorithms
+#### Double For Loop
+<br>![No connection](http://i.imgur.com/uAgRCrK.png)<br>
+#### Varying For Loop
+<br>![No connection](https://cdn.discordapp.com/attachments/211868333971079170/284014936827363328/SXzHd7e.png)<br>
