@@ -5,7 +5,7 @@ Basically covers the fact that all algorithms have tradeoffs. In the case of com
 Let f(n) be the function that describes the complexity of an algorithm. We are only concerned with asymptotic complexity ; which is to say we are only concerned with the order of complexity ( magnitude of a function ).
 
 This means that the function f(x) has a low order of complexity compared to g(x)<br>
-![No connection](https://latex.codecogs.com/gif.latex?f(x)&space;=&space;x^2)
+![No connection](https://latex.codecogs.com/gif.latex?f(x)&space;=&space;x^2)<br>
 ![No connection](https://latex.codecogs.com/gif.latex?g(x)&space;=&space;x^3)
 
 
