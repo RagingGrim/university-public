@@ -20,12 +20,15 @@ Let g(n) be the worst case performance of f(n); Big O Notation can then be defin
 
      f(n)       | Big-O
 :-------------: | :----:
-     2n^2       | O(n^2)
+     2n^2       | ![No connection](https://latex.codecogs.com/gif.latex?g(x)&space;=&space;x^3)
    100000n^2    | O(n^2)
    2n + n^2     | O(n^2)
 10 + n + log(n) |  O(n)
 10n^3 + 364n^2  | O(n^3)
 
 ![No connection](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_computational_complexity.svg/1920px-Comparison_computational_complexity.svg.png)
+
+### Properties
+![No connection](http://i.imgur.com/xoBxg1O.png)
 
 ### Common algorithms
