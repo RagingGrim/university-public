@@ -10,17 +10,14 @@ This means that the function f(x) has a low order of complexity compared to g(x)
 
 We determine the complexity of f(n) by deciding which terms contribute the most and discarding the others.
 
-
 ## Big O Notation
+### Introduction
 ![No connection](https://latex.codecogs.com/gif.latex?O%28g%28n%29%29)<br>
 
 Let g(n) be the worst case performance of f(n); Big O Notation can then be defined as the 'slowest' possible performance of a function.
 
 ### Examples
 
+* If f(n) = 2n; Then O(g(n)) = O(n)
 
-
-### Introduction
-Big O notation to describe the performance or complexity of an algorithm. Big O specifically describes the worst-case scenario, and can be used to describe the execution time required or the space used by an algorithm.
-
-### Common algorthims
+### Common algorithms
