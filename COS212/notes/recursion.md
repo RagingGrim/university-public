@@ -50,3 +50,14 @@ public int fib(int n) {
 ```
 
 ___
+
+## Backtracking
+
+Backtracking involves 'going back' to solve a particular problem.
+Eg If you are driving and get lost you turn back and try to find a road that you remember.
+
+A popular problem solved with backtracking is the N-Queen problem;<br>
+This is where you place N queens on a chessboard with NxN slots so that no 2 queens
+can attack each other.
+
+<br>![No internet](http://i.imgur.com/O3cGlYv.gif)
