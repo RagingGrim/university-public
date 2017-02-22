@@ -27,6 +27,8 @@ int factorial(int n){
 }
 ```
 
+---
+
 ### Fibonacchi
 #### Pseudo code
 ```pseudo
