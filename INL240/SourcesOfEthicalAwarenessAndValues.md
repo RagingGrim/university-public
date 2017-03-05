@@ -3,16 +3,17 @@
 @Date:   2017-03-05T17:52:43+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-05T18:37:59+02:00
+@Last modified time: 2017-03-05T18:44:49+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
 # Legal
 All content is owned by the University of Pretoria.
-
 # Table of content
-[Definitions](#Definitions)
-
+[Definitions](#definitions)
+[Computer and Information Ethics](#computer-and-information-ethics)
+[Three IE levels](#three-ie-levels)
+[Ethics theories](#ethics-theories)
 # Sources of ethical awareness and values
 ![ethiscs awareness](/INL240/sourcesofethicalawarenessandvalues.jpg?raw=true)
 
@@ -59,7 +60,7 @@ The self then is further cultivated by virtues, ‘an activity of the soul, impl
 Aristotle, 384 to 322 B.C.
 #### What
 Virtue Ethics is a classification within Normative Ethics that attempts to discover and classify what might be deemed of moral character, and to apply the moral character as a base for one's choices and actions.
----
+
 ### Deontological ethics
 The representative of this theory is Immanuel Kant. Where ‘virtue ethics claims that morality depends on the moral virtues of one’s character, deontological ethics insists that moral action requires conformity to moral principles’. Kant postulated the ‘universal moral law’ whereby a maxim to one’s actions, if it can be made universal, it is ethical. This categorical imperative therefore applies to everyone – heedless of personal goals, status or situation.
 
@@ -69,6 +70,7 @@ The word deontology derives from the Greek words for duty (deon) and science (or
 Moral “ought” cannot be deduced from practical “is”
 #### How
 Three Categorical Imperatives – ASK yourself what the possible answers might be in accordance with the three categorical imperative as to judge whether an action can be ethically condoned (i.e. White lie: universal law? Is it your duty? Are you responsible for telling a white lie?
+
 1. Universal Law/Maxim
 2. So act as to treat humanity, whether in your own person or in that of another, in every case as and end never as a means only
 3. Every human will is a will which in all its maxims give universal laws – we are not passive. Act on it as sense of duty
