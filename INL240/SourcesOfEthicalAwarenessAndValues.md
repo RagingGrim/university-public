@@ -3,7 +3,7 @@
 @Date:   2017-03-05T17:52:43+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-05T19:33:45+02:00
+@Last modified time: 2017-03-05T19:39:02+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
@@ -31,6 +31,7 @@ Law is a collection of rules of conduct for specific situations that are establi
 
 ## Values vs Ethics
 **Values**: Convictions about what is good and desirable.
+
 **Ethics**: Concerns itself with what is good or right in human interaction. Therefore, the interaction of good between self and other and the relationship between the two. Values can thus be exempted from ethical behavior since what is good does not necessarily have to be ethical. But when values become aligned with ethical behavior it contributes to the
 understanding and implementation of ethics in economic, political, legal and social systems. In all, ethics is not selfish but self-interested.
 
@@ -117,11 +118,15 @@ Each caring relation consists of at least two people, the "One-caring" and the "
 
 Two criteria must be met for such a duty to have force:
 1. the relationship with the other person must exist, and
+
 2. the relationship must have the potential to grow into a mutually caring relationship.
+
 
 There are three levels of a caring morality:
 1. the self is cared for to the exclusion of the other,
+
 2. the other is cared for to the exclusion of the self, and
+
 3. moral maturity, wherein the needs of both self and other are understood.
 
 ## Ethical issues
