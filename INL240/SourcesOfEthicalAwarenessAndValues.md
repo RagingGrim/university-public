@@ -3,7 +3,7 @@
 @Date:   2017-03-05T17:52:43+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-05T19:21:29+02:00
+@Last modified time: 2017-03-05T19:33:45+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
@@ -14,6 +14,7 @@ All content is owned by the University of Pretoria.
 - [Computer and Information Ethics](#computer-and-information-ethics)
 - [Three IE levels](#three-ie-levels)
 - [Ethics theories](#ethics-theories)
+- [Ethical issues](#ethical-issues)
 
 # Sources of ethical awareness and values
 ![ethiscs awareness](/INL240/sourcesofethicalawarenessandvalues.jpg)
@@ -122,3 +123,8 @@ There are three levels of a caring morality:
 1. the self is cared for to the exclusion of the other,
 2. the other is cared for to the exclusion of the self, and
 3. moral maturity, wherein the needs of both self and other are understood.
+
+## Ethical issues
+- Privacy
+- Trust
+- Autonomy
