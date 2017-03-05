@@ -3,7 +3,7 @@
 @Date:   2017-03-05T17:52:43+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-05T19:39:02+02:00
+@Last modified time: 2017-03-05T19:40:13+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
@@ -117,12 +117,14 @@ The particularity of relations is fundamental to the ethics of care.
 Each caring relation consists of at least two people, the "One-caring" and the "Cared-for." Ethical caring is a natural outgrowth of natural caring unlike Kant's ranking of duty as primary and inclination as secondary, in the ethics of care the inclination to care is primary.
 
 Two criteria must be met for such a duty to have force:
+
 1. the relationship with the other person must exist, and
 
 2. the relationship must have the potential to grow into a mutually caring relationship.
 
 
 There are three levels of a caring morality:
+
 1. the self is cared for to the exclusion of the other,
 
 2. the other is cared for to the exclusion of the self, and
