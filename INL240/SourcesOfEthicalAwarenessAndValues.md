@@ -3,7 +3,7 @@
 @Date:   2017-03-05T17:52:43+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-05T18:58:31+02:00
+@Last modified time: 2017-03-05T19:10:52+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
@@ -77,20 +77,14 @@ Three Categorical Imperatives – ASK yourself what the possible answers might b
 3. Every human will is a will which in all its maxims give universal laws – we are not passive. Act on it as sense of duty
 
 ### Utilitarian ethics
-Add keywords here to make this summary more specific to a topic.Strict Scan [?]
-This theory basically entails that actions are judged according to their consequences; hence it is also translated as Consequentialism.
+#### What
+The utilitarian doctrine is, that happiness is desirable, and the only thing desirable, as an end; all other things being only desirable as means to that end.
+#### Why
+Utilitarianism is a theory in normative ethics holding that the proper course of action is the one that maximizes utility, usually defined as maximizing happiness and reducing suffering.
+#### How
+Consequentialism = whether an act is morally right depends only on consequences.
 
-Regarding the principle of utility, of which the ultimate goal is happiness for Mill, he states that 'Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.
-
-By happiness is intended pleasure, and the absence of pain; by unhappiness, pain or the privation of pleasure'.
-
-It is not just the immediate effects of pain or pleasure that should be considered when making moral judgments, principles like justice are also important for long term societal happiness.
-
-Requires a cost/benefit analysis or calculation to determine the right course of action.
-
-Immediate, foreseeable and indirect effects should be included so as to maximize utility or pleasure for the most number of people.
-
-The utilitarian principle proposes that the course of action which is morally correct is the one that produces the most happiness in comparison to every other available option in that situation.
+Act consequentialism is the claim that an act is morally right if and only if that act maximizes the good, that is, if and only if the total amount of good for all minus the total amount of bad for all is greater than this net amount for any incompatible act available to the agent on that occasion.
 
 <details>
   <summary>More</summary>
