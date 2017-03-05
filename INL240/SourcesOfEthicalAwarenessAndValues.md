@@ -3,7 +3,7 @@
 @Date:   2017-03-05T17:52:43+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-05T18:49:31+02:00
+@Last modified time: 2017-03-05T18:58:31+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
@@ -14,6 +14,7 @@ All content is owned by the University of Pretoria.
 - [Computer and Information Ethics](#computer-and-information-ethics)
 - [Three IE levels](#three-ie-levels)
 - [Ethics theories](#ethics-theories)
+
 # Sources of ethical awareness and values
 ![ethiscs awareness](/INL240/sourcesofethicalawarenessandvalues.jpg?raw=true)
 
@@ -76,8 +77,26 @@ Three Categorical Imperatives – ASK yourself what the possible answers might b
 3. Every human will is a will which in all its maxims give universal laws – we are not passive. Act on it as sense of duty
 
 ### Utilitarian ethics
-The representative of this theory is John Stuart Mill, but also Jeremy Bentham before him. This theory basically entails that actions are judged according to their consequences; hence it is also translated as Consequentialism. Regarding the principle of utility, of which the ultimate goal is happiness for Mill, he states that ‘Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness. By happiness is intended pleasure, and the absence of pain; by unhappiness, pain or the privation of pleasure’.
+Add keywords here to make this summary more specific to a topic.Strict Scan [?]
+This theory basically entails that actions are judged according to their consequences; hence it is also translated as Consequentialism.
 
-- It is not just the immediate effects of pain or pleasure that should be considered when making moral judgments, principles like justice are also important for long term societal happiness.
-- Requires a cost/benefit analysis or calculation to determine the right course of action. Immediate, foreseeable and indirect effects should be included so as to maximize utility or pleasure for the most number of people.
-- The utilitarian principle proposes that the course of action which is morally correct is the one that produces the most happiness in comparison to every other available option in that situation. 
+Regarding the principle of utility, of which the ultimate goal is happiness for Mill, he states that 'Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.
+
+By happiness is intended pleasure, and the absence of pain; by unhappiness, pain or the privation of pleasure'.
+
+It is not just the immediate effects of pain or pleasure that should be considered when making moral judgments, principles like justice are also important for long term societal happiness.
+
+Requires a cost/benefit analysis or calculation to determine the right course of action.
+
+Immediate, foreseeable and indirect effects should be included so as to maximize utility or pleasure for the most number of people.
+
+The utilitarian principle proposes that the course of action which is morally correct is the one that produces the most happiness in comparison to every other available option in that situation.
+
+<details>
+  <summary>More</summary>
+  The representative of this theory is John Stuart Mill, but also Jeremy Bentham before him. This theory basically entails that actions are judged according to their consequences; hence it is also translated as Consequentialism. Regarding the principle of utility, of which the ultimate goal is happiness for Mill, he states that ‘Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness. By happiness is intended pleasure, and the absence of pain; by unhappiness, pain or the privation of pleasure’.
+
+  - It is not just the immediate effects of pain or pleasure that should be considered when making moral judgments, principles like justice are also important for long term societal happiness.
+  - Requires a cost/benefit analysis or calculation to determine the right course of action. Immediate, foreseeable and indirect effects should be included so as to maximize utility or pleasure for the most number of people.
+  - The utilitarian principle proposes that the course of action which is morally correct is the one that produces the most happiness in comparison to every other available option in that situation.
+</details>
