@@ -3,7 +3,7 @@
 @Date:   2017-03-06T19:18:11+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-06T21:01:01+02:00
+@Last modified time: 2017-03-06T21:04:10+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
@@ -20,7 +20,12 @@ All content is owned by the University of Pretoria.
 - [RICA](#regulation-of-interception-of-communications-and-provision-of-communication-related-information-act-70-of-2002)
 - [Information Accuracy](#information-accuracy)
 - [Discussion of Accuracy (Mason, 1986)](#discussion-of-accuracy-mason-1986)
-
+- [Propaganda](#propaganda)
+- [Identity theft and fraud](#identity-theft-and-fraud)
+- [Defining intellectual property](#defining-intellectual-property)
+- [Role of Intellectual Property in modern society (Zuallcobley, 2006)](#role-of-intellectual-property-in-modern-society-zuallcobley-2006)
+- [The dual nature principle (Ackerman & Britz, 2006)](#the-dual-nature-principle-ackerman--britz-2006)
+- [Main types of Intellectual Property](#main-types-of-intellectual-property)
 
 ## What is privacy and information privacy?
 
