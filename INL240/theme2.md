@@ -3,7 +3,7 @@
 @Date:   2017-03-06T19:18:11+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-06T20:11:05+02:00
+@Last modified time: 2017-03-06T20:28:28+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
@@ -141,4 +141,51 @@ Section 14 of the Bill of Rights in the South African Constitution explicitly st
 -  Provisions in RICA allow for that right to be infringed??
 -  However, various other provisions in the Bill of Rights indirectly imply a right to safety and security (Chapter 11 of the constitution outlines the rights to safety).
 - Parliament has therefore attempted to balance these two conflicting rights by providing for judicial oversight and approval of any interception of communication, limiting the interception only to those cases where an investigation is justified.
+</details>
+
+## Information accuracy
+Accuracy refers to the authenticity and integrity of information. It is information of genuine detail, from undisputed origin or authorship. Accuracy is to ensure that the information is correct and without any mistake.
+
+The quality of information measured by:
+- accuracy,
+- timeliness,
+- completeness,
+- relevance
+- and if it is easy to understood by the users
+
+So accuracy is important for quality of information.
+
+## Discussion of Accuracy (Mason, 1986)
+- Mason argued that when designing information systems, it is the designer's responsibility to be "vigilant in the pursuit of accuracy of information" because people might be harmed by inaccurate data.
+- This is not the main threat of today - Now, inaccuracy includes issues when dealing with intentional falsification of information.
+
+**Disinformation** is false or inaccurate information that is spread deliberately with intentions of turning genuine information useless. For this reason, it is synonymous with and sometimes called **black propaganda**.
+<details>
+  <summary>More</summary>
+It is an act of deception and false statements to convince someone of untruth. Disinformation should not be confused with misinformation, information that is unintentionally false.
+
+In politics, disinformation is the deliberate attempt to deflect voter support of an opponent, disseminating false statements of innuendo based on the candidates vulnerabilities as revealed by opposition research. In both cases, it also includes the distortion of true information in such a way as to render it useless.
+</details>
+
+## Propaganda
+Information, ideas, or rumors deliberately spread widely to help or harm a person, group, movement, institution, nation, etc...
+Types of propaganda:
+- Bandwagon
+- Plain Folks
+- Glittering Generality
+- Transfer
+- Testimonial
+- Repetition
+- Name Calling
+
+## Identity theft and fraud
+**Identity theft** is when personal details of an individual are stolen and identity fraud is the use of those details to commit fraud.
+- In the current technological environment, one of the biggest issues of intentional falsification of information is identity theft. Identity theft occurs when someone knowingly and intentionally steals your personal information.
+
+<details>
+  <summary>This can be done through</summary>
+- physical theft of wallets containing identifying documents and bank cards;
+- “dumpster diving”
+- digitally intercepting personal information shared online through personal communications or online business transactions;
+- “shoulder surfing”, where an identity thief stands close enough to you during a personal transaction that they can see the personal information you are completing. “Identity theft, also known as ID theft is a crime in which a criminal obtains key pieces of personal information, such as Social Security or driver's license numbers, in order to pose as someone else.”
 </details>
