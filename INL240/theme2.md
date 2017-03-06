@@ -3,7 +3,7 @@
 @Date:   2017-03-06T19:18:11+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-06T19:55:28+02:00
+@Last modified time: 2017-03-06T19:56:42+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
@@ -59,21 +59,22 @@ information relating to the education or the medical, financial, criminal or emp
 ..- provide persons with rights and remedies to protect their personal information from processing that is not in accordance with this Act; and
 ..- establish voluntary and compulsory measures, including an Information Protection Regulator, to ensure respect for and to promote, enforce and fulfill the rights protected by this Act
 </details>
-### Accountability
+
+#### Accountability
 The entity that holds collected information must be in compliance with the bill.
 <details>
   <summary>More details</summary>
 This principle assigns responsibility to the party or institution that holds personal information in terms of compliance with the protection of personal information as set out in the Bill. It will be difficult for an organization to ensure that the requirements of the Bill are properly embedded within its business. Therefore, an individual at a suitably high level should be given the task of managing the organisation’s responsibilities in terms of the Bill.
 </details>
 
-### Processing Limitations
+#### Processing Limitations
 Collected information should be used only for its original intended purpose.
 <details>
   <summary>More details</summary>
 This principle requires that personal information may only be collected directly from the data subject and processed in a fair and lawful manner. Fair processing implies that the processing must be done with consent of the individual, or where it is necessary to comply with a legal obligation, public law duty or contractual obligation. In order to protect individual right to privacy (as stated in section 14 of the constitution), the amount of personal information gathered should never exceed the purpose for which it is needed.
 </details>
 
-### Purpose Specification
+#### Purpose Specification
 Any collected information must be for a specific purpose and the individual should be aware of the information.
 <details>
   <summary>More details</summary>
@@ -82,27 +83,27 @@ Any personal information collected must be for a specific, lawful, explicitly de
 The collectors of such information must establish mechanisms to ensure that personal information is only kept for as long as it is required to fulfill the purpose for which it was collected. When information is destroyed, it must be done in a manner that prevents any reconstruction in an intelligible form.
 </details>
 
-### Further Processing Limitation
+#### Further Processing Limitation
 If collected information will be further processed it requires additional consent.
 <details>
   <summary>More details</summary>
 Personal information may only be processed in a way that leads to the fulfillment of the purpose for which the information was collected initially. Further processing of information must only occur at the additional consent of the individual. Further processing of information without consent must be proven to be compatible with the original purpose.
 </details>
 
-### Information Quality
+#### Information Quality
 Any collected information should be complete, not misleading, accurate and up to date.
 <details>
   <summary>More details</summary>
 The person or institution responsible for determining the purpose and means for processing personal information should ensure that the information is complete, not misleading, up to date and accurate
 </details>
 
-### Openness
+#### Openness
 <details>
   <summary>More details</summary>
 This principle is linked directly to an organisation’s duty to process information in a fair and transparent manner. Personal information may only be collected following the notification of the Commission and at the knowledge of the data subject.
 </details>
 
-### Security Safeguards
+#### Security Safeguards
 The entity who collected the information is responsible for safeguarding the information.
 <details>
   <summary>More details</summary>
@@ -114,7 +115,7 @@ It is the organisation’s responsibility to:
 - notify stakeholders if personal information has been compromised in any way.
 </details>
 
-### Data Subject Participation
+#### Data Subject Participation
 The subject is entitled to know the particulars of their information held by the entity.
 <details>
   <summary>More details</summary>
