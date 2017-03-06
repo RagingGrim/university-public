@@ -3,11 +3,12 @@
 @Date:   2017-03-06T19:18:11+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-06T19:29:30+02:00
+@Last modified time: 2017-03-06T19:55:28+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
-
+# Legal
+All content is owned by the University of Pretoria.
 
 ## What is privacy and information privacy?
 
@@ -47,3 +48,75 @@ information relating to the education or the medical, financial, criminal or emp
 - correspondence sent by the person that is implicitly or explicitly of a private or confidential nature or further correspondence that would reveal the contents of the original correspondence;
 - the views or opinions of another individual about the person; and
 - the name of the person if it appears with other personal information relating to the person if the disclosure of the name itself would reveal information about the person.
+
+## Protection of Personal Information Act (No 4 of 2013)
+<details>
+  <summary>The purpose of the Protection of Personal Information Bill is to:</summary>
+- give effect to the constitutional right to privacy, by safeguarding personal information when processed by a responsible party, subject to justifiable limitations that are aimed at:
+..- balancing the right to privacy against other rights, particularly the right of access to information;
+..- protecting important interests, including the free flow of information within the Republic and across international borders;
+..- regulate the manner in which personal information may be processed, by establishing principles, in harmony with international standards, that prescribe the minimum threshold requirements for lawful processing of personal information.
+..- provide persons with rights and remedies to protect their personal information from processing that is not in accordance with this Act; and
+..- establish voluntary and compulsory measures, including an Information Protection Regulator, to ensure respect for and to promote, enforce and fulfill the rights protected by this Act
+</details>
+### Accountability
+The entity that holds collected information must be in compliance with the bill.
+<details>
+  <summary>More details</summary>
+This principle assigns responsibility to the party or institution that holds personal information in terms of compliance with the protection of personal information as set out in the Bill. It will be difficult for an organization to ensure that the requirements of the Bill are properly embedded within its business. Therefore, an individual at a suitably high level should be given the task of managing the organisation’s responsibilities in terms of the Bill.
+</details>
+
+### Processing Limitations
+Collected information should be used only for its original intended purpose.
+<details>
+  <summary>More details</summary>
+This principle requires that personal information may only be collected directly from the data subject and processed in a fair and lawful manner. Fair processing implies that the processing must be done with consent of the individual, or where it is necessary to comply with a legal obligation, public law duty or contractual obligation. In order to protect individual right to privacy (as stated in section 14 of the constitution), the amount of personal information gathered should never exceed the purpose for which it is needed.
+</details>
+
+### Purpose Specification
+Any collected information must be for a specific purpose and the individual should be aware of the information.
+<details>
+  <summary>More details</summary>
+Any personal information collected must be for a specific, lawful, explicitly defined and legitimate purpose. The data subject should be aware of what information is being processed, the purpose for which the information is collected, and who the likely recipients of the information will be.
+
+The collectors of such information must establish mechanisms to ensure that personal information is only kept for as long as it is required to fulfill the purpose for which it was collected. When information is destroyed, it must be done in a manner that prevents any reconstruction in an intelligible form.
+</details>
+
+### Further Processing Limitation
+If collected information will be further processed it requires additional consent.
+<details>
+  <summary>More details</summary>
+Personal information may only be processed in a way that leads to the fulfillment of the purpose for which the information was collected initially. Further processing of information must only occur at the additional consent of the individual. Further processing of information without consent must be proven to be compatible with the original purpose.
+</details>
+
+### Information Quality
+Any collected information should be complete, not misleading, accurate and up to date.
+<details>
+  <summary>More details</summary>
+The person or institution responsible for determining the purpose and means for processing personal information should ensure that the information is complete, not misleading, up to date and accurate
+</details>
+
+### Openness
+<details>
+  <summary>More details</summary>
+This principle is linked directly to an organisation’s duty to process information in a fair and transparent manner. Personal information may only be collected following the notification of the Commission and at the knowledge of the data subject.
+</details>
+
+### Security Safeguards
+The entity who collected the information is responsible for safeguarding the information.
+<details>
+  <summary>More details</summary>
+The Bill requires the implementation of technical and organizational measures to secure the integrity of personal information, and to guard against the risk of loss, damage, interference, modification or destruction of personal information. Also, personal information should also be protected against any unauthorized or unlawful access or processing.
+
+It is the organisation’s responsibility to:
+- implement security measures to safeguard personal information held by the organization;
+- respect personal information that is processed by third parties on behalf of the organization; and
+- notify stakeholders if personal information has been compromised in any way.
+</details>
+
+### Data Subject Participation
+The subject is entitled to know the particulars of their information held by the entity.
+<details>
+  <summary>More details</summary>
+A data subject is entitled to the particulars of his or her personal information held by any institution or person, as well as to the identity of any person that had access to his or her personal information. The data subject is also entitled to request the correction or deletion of information held by another organization about them that may be inaccurate, outdated or misleading.
+</details>
