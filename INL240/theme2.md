@@ -3,12 +3,24 @@
 @Date:   2017-03-06T19:18:11+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-06T20:49:47+02:00
+@Last modified time: 2017-03-06T21:01:01+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
 # Legal
 All content is owned by the University of Pretoria.
+
+# Table of content
+- [What is privacy and information privacy?](#what-is-privacy-and-information-privacy)
+- [How does the dissemination of information actually affect privacy?](#how-does-the-dissemination-of-information-actually-affect-privacy)
+- [Kinds of privacy and the technology that affects it](#kinds-of-privacy-and-the-technology-that-affects-it)
+- [What do we need to keep private?](#what-do-we-need-to-keep-private)
+- [Protection of Personal Information Act (No 4 of 2013)](#protection-of-personal-information-act-no-4-of-2013)
+- [Chapter 8: Personal Information and Privacy Protection](#chapter-8-personal-information-and-privacy-protection)
+- [RICA](#regulation-of-interception-of-communications-and-provision-of-communication-related-information-act-70-of-2002)
+- [Information Accuracy](#information-accuracy)
+- [Discussion of Accuracy (Mason, 1986)](#discussion-of-accuracy-mason-1986)
+
 
 ## What is privacy and information privacy?
 
