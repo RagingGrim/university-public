@@ -3,7 +3,7 @@
 @Date:   2017-03-06T19:18:11+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-06T20:43:14+02:00
+@Last modified time: 2017-03-06T20:49:47+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
@@ -235,3 +235,43 @@ Intellectual property systems are developed to:
 - Protect the moral rights of authors (moral justification);
 - Recognize and protect the right of fair compensation for the creation and distribution of information products (economic justification).
 - Enhance, to the benefit of the common good, the creation and accessibility of new knowledge (social justification).
+
+## Main types of Intellectual Property
+#### Copyright
+<details>
+  <summary>Details</summary>
+The exclusive legal right, given to an originator or an assignee to print, publish, perform, film, or record literary, artistic, or musical material, and to authorize others to do the same.
+</details>
+
+#### Trademarks
+<details>
+  <summary>Details</summary>
+A symbol, word, or words legally registered or established by use as representing a company or product.
+</details>
+
+#### Patents
+<details>
+  <summary>Details</summary>
+A government authority to an individual or organization conferring a right or title, esp. the sole right to make, use, or sell some invention.
+</details>
+
+#### Industrial designs
+<details>
+  <summary>Details</summary>
+The visual features of shape, configuration, pattern or ornament (or any combination of these features), applied to a finished article of manufacture
+</details>
+
+#### Trade Secret
+<details>
+  <summary>Details</summary>
+A secret device or technique used by a company in manufacturing its products.  
+</details>
+
+#### Geographical Indications
+<details>
+  <summary>Details</summary>
+Place names (or words associated with a place) used to identify products (for example, “Champagne”, “Tequila” or “Roquefort”) which have a particular quality, reputation or other characteristic because they come from that place.
+</details>
+
+## Value of Intellectual Property
+***Application***
