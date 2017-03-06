@@ -3,7 +3,7 @@
 @Date:   2017-03-06T19:18:11+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-06T19:56:42+02:00
+@Last modified time: 2017-03-06T20:11:05+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
@@ -53,11 +53,11 @@ information relating to the education or the medical, financial, criminal or emp
 <details>
   <summary>The purpose of the Protection of Personal Information Bill is to:</summary>
 - give effect to the constitutional right to privacy, by safeguarding personal information when processed by a responsible party, subject to justifiable limitations that are aimed at:
-..- balancing the right to privacy against other rights, particularly the right of access to information;
-..- protecting important interests, including the free flow of information within the Republic and across international borders;
-..- regulate the manner in which personal information may be processed, by establishing principles, in harmony with international standards, that prescribe the minimum threshold requirements for lawful processing of personal information.
-..- provide persons with rights and remedies to protect their personal information from processing that is not in accordance with this Act; and
-..- establish voluntary and compulsory measures, including an Information Protection Regulator, to ensure respect for and to promote, enforce and fulfill the rights protected by this Act
+..* balancing the right to privacy against other rights, particularly the right of access to information;
+..* protecting important interests, including the free flow of information within the Republic and across international borders;
+..* regulate the manner in which personal information may be processed, by establishing principles, in harmony with international standards, that prescribe the minimum threshold requirements for lawful processing of personal information.
+..* provide persons with rights and remedies to protect their personal information from processing that is not in accordance with this Act; and
+..* establish voluntary and compulsory measures, including an Information Protection Regulator, to ensure respect for and to promote, enforce and fulfill the rights protected by this Act
 </details>
 
 #### Accountability
@@ -120,4 +120,25 @@ The subject is entitled to know the particulars of their information held by the
 <details>
   <summary>More details</summary>
 A data subject is entitled to the particulars of his or her personal information held by any institution or person, as well as to the identity of any person that had access to his or her personal information. The data subject is also entitled to request the correction or deletion of information held by another organization about them that may be inaccurate, outdated or misleading.
+</details>
+
+## Chapter 8: Personal Information and Privacy Protection
+This Chapter establishes a voluntary regime for protection of personal information. Personal information includes any information capable of identifying an individual.
+- Collectors of personal information (data collectors) may subscribe to a set of universally accepted data protection principles. It is envisaged that consumers will prefer to deal with only those data collectors that have subscribed to the recorded data protection principles.
+- The sanction for breach of these provisions is left to the parties themselves to agree on.
+
+## Regulation of Interception of Communications and Provision of Communication Related Information (Act 70 of 2002)
+### RICA
+This law regulates the interception of communications, the monitoring of radio signals and radio frequency spectrum's and the provision of communication-related information (information relating to indirect communication in the records of telecommunication service providers). Written consent is required to monitor the use of third parties, contractors and employees accessing company premises and telecommunication systems, only if the company intercepts communication for investigation purposes.
+
+It regulates law enforcement where interception of communications is involved and does not allow telecommunication services which do not have the capability to be intercepted. It requires telecommunication service providers store communication-related information (CRI) for a specified period of time in a secure location. Lastly it prohibits the manufacturing, assembling, possessing, selling, purchasing or advertising of interception equipment without a certificate of exemption issued by the relevant Minister (Wikipedia, 2011).
+
+![rica directives](/INL240/rica.jpg)
+
+<details>
+  <summary>Conflict with the Constitution</summary>
+Section 14 of the Bill of Rights in the South African Constitution explicitly states that that "everyone has a right to privacy, which includes the right not to have (...) (d) the privacy of their communications infringed”
+-  Provisions in RICA allow for that right to be infringed??
+-  However, various other provisions in the Bill of Rights indirectly imply a right to safety and security (Chapter 11 of the constitution outlines the rights to safety).
+- Parliament has therefore attempted to balance these two conflicting rights by providing for judicial oversight and approval of any interception of communication, limiting the interception only to those cases where an investigation is justified.
 </details>
