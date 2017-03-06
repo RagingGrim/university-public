@@ -3,7 +3,7 @@
 @Date:   2017-03-06T19:18:11+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-06T20:35:53+02:00
+@Last modified time: 2017-03-06T20:43:14+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
@@ -53,11 +53,11 @@ information relating to the education or the medical, financial, criminal or emp
 <details>
   <summary>The purpose of the Protection of Personal Information Bill is to:</summary>
 - give effect to the constitutional right to privacy, by safeguarding personal information when processed by a responsible party, subject to justifiable limitations that are aimed at:
-..* balancing the right to privacy against other rights, particularly the right of access to information;
-..* protecting important interests, including the free flow of information within the Republic and across international borders;
-..* regulate the manner in which personal information may be processed, by establishing principles, in harmony with international standards, that prescribe the minimum threshold requirements for lawful processing of personal information.
-..* provide persons with rights and remedies to protect their personal information from processing that is not in accordance with this Act; and
-..* establish voluntary and compulsory measures, including an Information Protection Regulator, to ensure respect for and to promote, enforce and fulfill the rights protected by this Act
+* balancing the right to privacy against other rights, particularly the right of access to information;
+* protecting important interests, including the free flow of information within the Republic and across international borders;
+* regulate the manner in which personal information may be processed, by establishing principles, in harmony with international standards, that prescribe the minimum threshold requirements for lawful processing of personal information.
+* provide persons with rights and remedies to protect their personal information from processing that is not in accordance with this Act; and
+* establish voluntary and compulsory measures, including an Information Protection Regulator, to ensure respect for and to promote, enforce and fulfill the rights protected by this Act
 </details>
 
 #### Accountability
@@ -210,3 +210,28 @@ Types of propaganda:
 
 #### Synthetic identity theft
 - Identities are completely or partially fabricated. Fake ID documents, or combinations of identity numbers or names from a number of different people may be used to create an entirely fictional identity. This is difficult to track, and is most harmful to the credit organizations themselves, because of the confusion of details.
+
+## Defining Intellectual Property
+Intellectual property rights is the term used for intangible (immaterial) property rights which are the results of intellectual effort
+
+<details>
+  <summary>Definition according to the World Intellectual Property Organization</summary>
+“Intellectual property (IP) refers to creations of the mind: inventions, literary and artistic works, and symbols, names, images, and designs used in commerce.”
+</details>
+
+## Role of Intellectual Property in modern society (Zuallcobley, 2006)
+- Protect economic rights of creators
+- Development and transfer of technology
+- Cultural development
+- Capital expenditure for new products
+- Promote research and development
+- Marketing and advertisement
+- Maintaining loyal followers
+- Profit
+
+## The dual nature principle (Ackerman & Britz, 2006)
+Intellectual property has unique dual properties namely the right to own (control) as well as the right of access.
+Intellectual property systems are developed to:
+- Protect the moral rights of authors (moral justification);
+- Recognize and protect the right of fair compensation for the creation and distribution of information products (economic justification).
+- Enhance, to the benefit of the common good, the creation and accessibility of new knowledge (social justification).
