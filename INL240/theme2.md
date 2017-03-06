@@ -3,7 +3,7 @@
 @Date:   2017-03-06T19:18:11+02:00
 @Email:  thomas@quantum-sicarius.za.net
 @Last modified by:   thomas
-@Last modified time: 2017-03-06T20:34:24+02:00
+@Last modified time: 2017-03-06T20:35:53+02:00
 @License: Attribution-NonCommercial-ShareAlike 4.0 International
 -->
 
@@ -194,14 +194,19 @@ Types of propaganda:
 #### Criminal identity theft
 - This is when a criminal identifies themselves as someone else, through the use of stolen credentials or a fake ID, during arrest.
 - It becomes difficult for the victim of identity theft to clear themselves of a criminal record that may be as a result of criminal ID theft.
+
 #### Financial identity theft
 - This is considered the most common type of identity theft.
 - This is when someone applies for loans, opens credit accounts, purchases goods and services in another individual’s name.
+
 #### Identity cloning
 - The identity thief impersonates someone else – could be an illegal immigrant or those hiding from authorities.
+
 #### Medical identity theft
 - This type of theft involves impersonating another person in order to obtain medical care, drugs or to commit medical insurance fraud. This may affect the victim through charges brought forward in the event of drug abuse, or negative effect on medical insurance in the future.
+
 #### Child identity theft
 - When the identity thief (be it a stranger, family member or friend) uses the child’s identity number to establish lines of credit or make fraudulent purchases.
+
 #### Synthetic identity theft
 - Identities are completely or partially fabricated. Fake ID documents, or combinations of identity numbers or names from a number of different people may be used to create an entirely fictional identity. This is difficult to track, and is most harmful to the credit organizations themselves, because of the confusion of details.
