@@ -1,2 +1,2 @@
 # university-public
-The repository has been moved to [DowntownCookieFrenzy](github.com/DownTownCookieFrenzy/university).
+The repository has been moved to [DowntownCookieFrenzy](https://github.com/DowntownCookieFrenzy/University).
